@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+background: #F0FFF0;
+}
+.text1{
+    font-size: 2.6rem;
+}
+.background{
+    background: #F8FFFB;
+
+}
+.background:hover{
+    background: white;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.footer{
+    background: #282531;
+    width: 100%;
+}
